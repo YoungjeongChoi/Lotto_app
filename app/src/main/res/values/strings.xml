@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LottoNumber</string>
+    <string name="title_name">로또번호 생성기</string>
+    <string name="btn_num_add">숫자 추가하기</string>
+    <string name="btn_auto">번호 자동 생성</string>
+    <string name="btn_clear">초기화</string>
+</resources>
